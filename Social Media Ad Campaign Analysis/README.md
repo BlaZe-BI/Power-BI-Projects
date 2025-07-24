@@ -1,7 +1,7 @@
 # 📊 RFM Customer Segmentation (Power BI by Zeljko Blagojevic)
 
 ## 🧠 Project Summary
-This project give us insights on achivments of Social Media Ad Campaign. We can discuss different KPI's, 
+This project give us insights on achivments of Social Media Ad Campaign (Conversion success analysis). We can discuss different KPI's, 
 ratios, distribution, Ad success, Category ranking etc
 
 ---
@@ -51,5 +51,5 @@ social media ad campaign.
 ---
 
 ## 📞 Contact
-Created by [Zeljko Blagojevic]
+Created by Zeljko Blagojevic
 [LinkedIn](https://www.linkedin.com/in/željko-blagojević-1115261b4)
