@@ -101,7 +101,7 @@ Demonstrates practical BI implementation using real-world structured data.
 (65k+ games)
 
 <p align="center">
-  <img src="NBA Insights/images/NBA stats by Zeljko Blagojevic 2.png" width="70%" />
+  <img src="NBA insights/images/NBA stats by Zeljko Blagojevic 2.png" width="70%" />
 </p>
 
 Developed a multi-table relational model combining performance, draft and physical metrics.
