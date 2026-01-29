@@ -61,6 +61,9 @@ My approach emphasizes:
 ## RFM Customer Segmentation  
 (235k+ transactions | 25k+ customers)
 
+![RFM Dashboard](RFM Customer Segmentation/images/RFM Customer Segmentation by Zeljko Blagojevic_Page_1_Image_0001.png)
+![RFM Analysis](RFM Customer Segmentation/images/RFM Customer Segmentation by Zeljko Blagojevic_Page_2_Image_0001.png)
+
 Designed and implemented a full RFM customer segmentation model.
 
 - Tested 6, 8 and 12 segment structures before final optimization  
@@ -74,6 +77,9 @@ Demonstrates analytical modeling depth and customer intelligence thinking.
 
 ## Retail / B2B Sales Analysis (Anonymized Real Dataset)  
 (220k+ transactions)
+
+![Retail Dashboard](IKEA B2B Sales/images/IKEA B2B Sales by Zeljko Blagojevic 1.png)
+![Retail Geography](IKEA B2B Sales/images/IKEA B2B Sales by Zeljko Blagojevic 2.png)
 
 Built a fiscal-aware sales performance dashboard using structured business data.
 
@@ -90,6 +96,8 @@ Demonstrates practical BI implementation using real-world structured data.
 ## NBA Multi-Fact Analytical Model  
 (65k+ games)
 
+![NBA Detail View](NBA Insights/images/NBA stats by Zeljko Blagojevic 2.png)
+
 Developed a multi-table relational model combining performance, draft and physical metrics.
 
 - Multi-fact structure with shared dimensions  
@@ -102,6 +110,9 @@ Showcases modeling discipline and relationship management.
 ---
 
 ## Social Media Campaign Analysis
+
+![Social Campaign Overview](Social Media Ad Campaign Analysis/images/Social Media Campaign by Zeljko Blagojevic_Page_1.png)
+![Social Campaign Details](Social Media Ad Campaign Analysis/images/Social Media Campaign by Zeljko Blagojevic_Page_2.png)
 
 Developed marketing performance dashboard with industry-standard metrics.
 
@@ -119,6 +130,11 @@ Demonstrates translation of domain-specific KPIs into structured analytics.
 
 ## HR Analytics Dashboard
 
+![HR Dashboard](HR Analytics/images/HR Analytics by Zeljko Blagojevic 1.png)
+![HR Dashboard](HR Analytics/images/HR Analytics by Zeljko Blagojevic 2.png)
+![HR Toggle ON](HR Analytics/images/HR Analytics by Zeljko Blagojevic_Page_5.png)
+![HR Toggle OFF](HR Analytics/images/HR Analytics by Zeljko Blagojevic 5off.png)
+
 Designed workforce analytics solution focused on attrition and employee distribution.
 
 - Attrition rate calculation  
@@ -131,6 +147,9 @@ Highlights advanced Power BI interaction logic.
 ---
 
 ## E-Commerce Sales Dashboard
+
+![E-Commerce KPI Overview](E-commerce Sales/images/E-commerce Sales by Zeljko Blagojevic_Page_1.png)
+![E-Commerce Map](E-commerce Sales/images/E-commerce Sales by Zeljko Blagojevic_Page_3.png)
 
 Built foundational sales and profitability reporting solution.
 
