@@ -61,8 +61,10 @@ My approach emphasizes:
 ## RFM Customer Segmentation  
 (235k+ transactions | 25k+ customers)
 
-![RFM Dashboard](./RFM%20Customer%20Segmentation/images/RFM%20Customer%20Segmentation%20by%20Zeljko%20Blagojevic_Page_1_Image_0001.png)
-![RFM Analysis](./RFM%20Customer%20Segmentation/images/RFM%20Customer%20Segmentation%20by%20Zeljko%20Blagojevic_Page_2_Image_0001.png)
+<p align="center">
+  <img src="RFM Customer Segmentation/images/RFM Customer Segmentation by Zeljko Blagojevic_Page_1_Image_0001.png" width="48%" />
+  <img src="RFM Customer Segmentation/images/RFM Customer Segmentation by Zeljko Blagojevic_Page_2_Image_0001.png" width="48%" />
+</p>
 
 Designed and implemented a full RFM customer segmentation model.
 
@@ -78,8 +80,10 @@ Demonstrates analytical modeling depth and customer intelligence thinking.
 ## Retail / B2B Sales Analysis (Anonymized Real Dataset)  
 (220k+ transactions)
 
-![Retail Dashboard](./IKEA%20B2B%20Sales/images/IKEA%20B2B%20Sales%20by%20Zeljko%20Blagojevic%201.png)
-![Retail Geography](./IKEA%20B2B%20Sales/images/IKEA%20B2B%20Sales%20by%20Zeljko%20Blagojevic%202.png)
+<p align="center">
+  <img src="IKEA B2B Sales/images/IKEA B2B Sales by Zeljko Blagojevic 1.png" width="48%" />
+  <img src="IKEA B2B Sales/images/IKEA B2B Sales by Zeljko Blagojevic 2.png" width="48%" />
+</p>
 
 Built a fiscal-aware sales performance dashboard using structured business data.
 
@@ -96,7 +100,9 @@ Demonstrates practical BI implementation using real-world structured data.
 ## NBA Multi-Fact Analytical Model  
 (65k+ games)
 
-![NBA Dashboard 1](./NBA%20Insights/images/NBA%20stats%20by%20Zeljko%20Blagojevic%201.png)
+<p align="center">
+  <img src="NBA Insights/images/NBA stats by Zeljko Blagojevic 2.png" width="70%" />
+</p>
 
 Developed a multi-table relational model combining performance, draft and physical metrics.
 
@@ -111,8 +117,10 @@ Showcases modeling discipline and relationship management.
 
 ## Social Media Campaign Analysis
 
-![Ad Campaign Overview](./Social%20Media%20Ad%20Campaign%20Analysis/images/Social%20Media%20Campaign%20by%20Zeljko%20Blagojevic_Page_1.png)
-![Ad Campaign Success](./Social%20Media%20Ad%20Campaign%20Analysis/images/Social%20Media%20Campaign%20by%20Zeljko%20Blagojevic_Page_2.png)
+<p align="center">
+  <img src="Social Media Ad Campaign Analysis/images/Social Media Campaign by Zeljko Blagojevic_Page_1.png" width="48%" />
+  <img src="Social Media Ad Campaign Analysis/images/Social Media Campaign by Zeljko Blagojevic_Page_2.png" width="48%" />
+</p>
 
 Developed marketing performance dashboard with industry-standard metrics.
 
@@ -130,10 +138,15 @@ Demonstrates translation of domain-specific KPIs into structured analytics.
 
 ## HR Analytics Dashboard
 
-![HR Overview](./HR%20Analytics/images/HR%20Analytics%20by%20Zeljko%20Blagojevic%201.png)
-![HR Attrition](./HR%20Analytics/images/HR%20Analytics%20by%20Zeljko%20Blagojevic%202.png)
-![Toggle ON](./HR%20Analytics/images/HR%20Analytics%20by%20Zeljko%20Blagojevic%205.png)
-![Toggle OFF](./HR%20Analytics/images/HR%20Analytics%20by%20Zeljko%20Blagojevic%205off.png)
+<p align="center">
+  <img src="HR Analytics/images/HR Analytics by Zeljko Blagojevic 1.png" width="48%" />
+  <img src="HR Analytics/images/HR Analytics by Zeljko Blagojevic 2.png" width="48%" />
+</p>
+
+<p align="center">
+  <img src="HR Analytics/images/HR Analytics by Zeljko Blagojevic 5off.png" width="48%" />
+  <img src="HR Analytics/images/HR Analytics by Zeljko Blagojevic_Page_5.png" width="48%" />
+</p>
 
 Designed workforce analytics solution focused on attrition and employee distribution.
 
@@ -148,8 +161,10 @@ Highlights advanced Power BI interaction logic.
 
 ## E-Commerce Sales Dashboard
 
-![Ecommerce KPI](./E-commerce%20Sales/images/E-commerce%20Sales%20by%20Zeljko%20Blagojevic_Page_1.png)
-![Ecommerce Map](./E-commerce%20Sales/images/E-commerce%20Sales%20by%20Zeljko%20Blagojevic_Page_3.png)
+<p align="center">
+  <img src="E-commerce Sales/images/E-commerce Sales by Zeljko Blagojevic_Page_1.png" width="48%" />
+  <img src="E-commerce Sales/images/E-commerce Sales by Zeljko Blagojevic_Page_3.png" width="48%" />
+</p>
 
 Built foundational sales and profitability reporting solution.
 
