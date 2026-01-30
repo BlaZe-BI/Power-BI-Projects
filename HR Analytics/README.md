@@ -1,52 +1,114 @@
-# 📊 HR Analytics Dashboard (Power BI by Zeljko Blagojevic)
+# HR Analytics Dashboard
 
-## 🧠 Project Summary
-Analyzed employee data to identify trends and insights using Power Query and DAX in Power BI. Created an interactive dashboard to track employee turnover and reasons for attrition. Discovered that sales people are leaving the company in greater numbers due to a lower salary and stagnant hike rates. Provided visualizations and actionable insights to the HR team to address the issue and retain employees.
----
+Workforce analytics model built in Power BI focused on attrition analysis and employee distribution.
 
-## 🔧 Key Features
-- Four page report
-- ETL and model relationship established
-- Seven related KPI's
-- DAX measures 
-- Dynamic filters by Gender, by Education field, by Job role and by Salary slab
-- Set-up visuals, custom tooltips etc
---- 
-
-## 📊 Dataset Overview
-
-- Data has been obtained from real-world sales orders.
-
-
-## 🖥️ Power BI Features Used
-- Power Query: Data cleaning and type transformation
-- DAX: Calculated columns and measures
-- Relationships: One-to-many join
-- Visuals: Card, Column chart, Donut chart, Stacked chart, Button slicer, Drop-down slicer
-- Design the dashboard layout
----
-
-## 📂 Files Included
-| File Name             | Description                                 |
-|-----------------------|---------------------------------------------|
-| `HR Analitics by Zeljko Blagojevic.pbix`    | Power BI Desktop file (main dashboard)      |
+(Real-world HR dataset | Multi-page analytical report)
 
 ---
 
-## 📎 How to Use
-1. Download or clone the repository
-2. Open `HR Analitics by Zeljko Blagojevic.pbix` in Power BI Desktop
+## Report Overview
+
+<p align="center">
+  <img src="images/HR Analytics by Zeljko Blagojevic 1.png" width="48%">
+  <img src="images/HR Analytics by Zeljko Blagojevic 2.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="images/HR Analytics by Zeljko Blagojevic 3.png" width="48%">
+  <img src="images/HR Analytics by Zeljko Blagojevic 4.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="images/HR Analytics by Zeljko Blagojevic 5off.png" width="48%">
+  <img src="images/HR Analytics by Zeljko Blagojevic_Page_5.png" width="48%">
+</p>
 
 ---
 
-## 🎓 What This Project Demonstrates
-- This project highlights my ability to use data visualization and analytics tools to identify key insights and provide actionable recommendations.
-- Data modeling and DAX proficiency
-- Visual storytelling 
-- Dashboard design UX using slicers, tooltips, bookmarks
+## Background
+
+This project analyzes workforce structure and employee attrition patterns using structured HR data.
+
+The objective was to build a KPI-driven dashboard that helps identify:
+
+- Attrition rate trends  
+- Salary-related attrition patterns  
+- Job role distribution  
+- Education field segmentation  
+- Gender-based differences  
+- Workforce composition insights  
 
 ---
 
-## 📞 Contact
-Created by Zeljko Blagojevic  
-[LinkedIn](https:www.linkedin.com/in/željko-blagojević-1115261b4)
+## Dataset
+
+- Real-world HR dataset  
+- Employee-level records  
+- Demographic attributes  
+- Salary information  
+- Job role and department classification  
+
+Selected attributes were adjusted where necessary to preserve privacy.
+
+---
+
+## Data Preparation
+
+All data transformation was performed in **Power Query**, including:
+
+- Data cleaning and normalization  
+- Type transformation  
+- Creation of calculated attributes (salary slabs, categorical groupings)  
+- Structured one-to-many relationships  
+
+The final structure follows a star-schema approach.
+
+---
+
+## Analytical Approach
+
+The model includes:
+
+- Attrition rate calculation  
+- KPI aggregation logic  
+- Salary slab classification  
+- Category mapping using SWITCH(TRUE())  
+- Gender-based dynamic filtering  
+- Bookmark-driven toggle slicer implementation  
+- Conditional formatting and dynamic visual behavior  
+
+A custom toggle slicer was implemented using bookmarks and selection logic to dynamically switch gender views while altering visual styling.
+
+---
+
+## Key Technical Components
+
+### DAX
+- CALCULATE and context transition  
+- SWITCH(TRUE()) classification logic  
+- Ratio calculations for attrition metrics  
+- Calculated columns and measures  
+
+### Modeling
+- One-to-many relationships  
+- Structured dimensional separation  
+- Controlled filter propagation  
+
+### UX & Interaction
+- Dynamic filters (Gender, Education Field, Job Role, Salary Slab)  
+- Bookmark-driven toggle slicer  
+- Conditional visual behavior  
+- Multi-page report navigation  
+
+---
+
+## Business Value
+
+- Identifies key drivers of employee attrition  
+- Highlights salary-related turnover patterns  
+- Supports HR retention strategy  
+- Provides structured workforce KPI monitoring  
+
+---
+
+Demonstrates KPI-driven HR analytics modeling, structured DAX implementation and advanced Power BI interaction design.
