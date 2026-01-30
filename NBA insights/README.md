@@ -2,7 +2,7 @@
 
 Multi-table relational performance model built in Power BI combining team, player, draft and physical metrics.
 
-(65k+ games | Multi-fact structure | 11 related tables)
+(65k+ games | 11 related tables | Multi-fact modeling structure)
 
 ---
 
@@ -22,11 +22,11 @@ Multi-table relational performance model built in Power BI combining team, playe
 
 ## Background
 
-This project analyzes historical NBA data to explore performance patterns across teams and players, including draft position, physical attributes and statistical performance.
+This project analyzes historical NBA data to explore performance patterns across teams and players, incorporating draft position, physical attributes and statistical performance metrics.
 
-The objective was to design a structured analytical model capable of handling multiple related fact tables while maintaining clean semantic modeling and controlled filter behavior.
+The objective was to design a structured analytical model capable of handling multiple related fact tables while preserving clean semantic modeling and controlled filter behavior.
 
-In addition to performance comparison, the model allows exploration of less conventional analytical angles such as correlations between player physical characteristics and performance metrics.
+Beyond standard performance comparison, the model enables exploration of analytical relationships between player physical characteristics and statistical outcomes.
 
 ---
 
@@ -35,8 +35,9 @@ In addition to performance comparison, the model allows exploration of less conv
 - Historical NBA statistics dataset  
 - 65k+ recorded games  
 - Player-level and team-level performance metrics  
-- Draft and physical attribute information  
-- Multi-table relational structure (11 tables)
+- Draft position data  
+- Physical attributes dataset  
+- 11-table relational structure  
 
 ---
 
@@ -47,7 +48,8 @@ All data transformation was performed in **Power Query**, including:
 - Data cleaning and normalization  
 - Type transformation  
 - Harmonization of player and team identifiers  
-- Structured relationship definition across fact and dimension tables  
+- Alignment of fact and dimension tables  
+- Structured relationship definition across the model  
 
 The final structure follows a multi-fact modeling approach with shared dimensions.
 
@@ -57,14 +59,14 @@ The final structure follows a multi-fact modeling approach with shared dimension
 
 The model includes:
 
-- Multi-fact structure (games, player stats, draft data)  
+- Multi-fact structure (games, player statistics, draft data)  
 - Shared dimension tables  
 - Controlled single and bi-directional relationships  
 - Active and inactive relationship handling  
-- Performance comparison logic  
-- Context-aware filtering across tables  
+- Context-aware filtering across related tables  
+- Comparative performance logic  
 
-Special attention was given to relationship direction management to prevent ambiguous filter propagation.
+Special attention was given to relationship direction management to prevent ambiguity and circular filter propagation.
 
 ---
 
@@ -72,9 +74,9 @@ Special attention was given to relationship direction management to prevent ambi
 
 ### DAX
 - CALCULATE and context transition  
-- Performance aggregation measures  
-- Comparative metric calculations  
-- Conditional logic for player evaluation  
+- Aggregation measures across multiple fact tables  
+- Comparative performance calculations  
+- Conditional evaluation logic  
 
 ### Modeling
 - 11-table relational structure  
@@ -86,17 +88,17 @@ Special attention was given to relationship direction management to prevent ambi
 - Multi-page analytical report  
 - Context-driven comparison views  
 - Custom tooltips and bookmarks  
-- Interactive filtering across dimensions  
+- Interactive filtering across multiple dimensions  
 
 ---
 
 ## Business Value
 
-- Demonstrates advanced modeling discipline  
-- Shows ability to manage complex relational structures  
-- Highlights understanding of filter propagation logic  
+- Demonstrates advanced data modeling discipline  
+- Showcases multi-fact relational design capability  
+- Highlights structured filter propagation management  
 - Enables structured comparative analytics  
 
 ---
 
-Demonstrates multi-fact modeling capability, structured relationship management and advanced analytical design in Power BI.
+Demonstrates multi-fact modeling capability, relationship management discipline and advanced analytical design in Power BI.

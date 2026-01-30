@@ -1,8 +1,8 @@
 # HR Analytics Dashboard
 
-Workforce analytics model built in Power BI focused on attrition analysis and employee distribution.
+Workforce analytics and attrition modeling solution built in Power BI.
 
-(Real-world HR dataset | Multi-page analytical report)
+(Real-world HR dataset | Multi-page analytical report | KPI-driven workforce analysis)
 
 ---
 
@@ -29,14 +29,16 @@ Workforce analytics model built in Power BI focused on attrition analysis and em
 
 This project analyzes workforce structure and employee attrition patterns using structured HR data.
 
-The objective was to build a KPI-driven dashboard that helps identify:
+The objective was to design a KPI-oriented dashboard that enables structured evaluation of:
 
-- Attrition rate trends  
-- Salary-related attrition patterns  
+- Attrition rate dynamics  
+- Salary-related turnover behavior  
 - Job role distribution  
 - Education field segmentation  
-- Gender-based differences  
-- Workforce composition insights  
+- Gender-based workforce comparison  
+- Overall workforce composition  
+
+The solution translates employee-level data into measurable retention indicators.
 
 ---
 
@@ -59,7 +61,9 @@ All data transformation was performed in **Power Query**, including:
 - Data cleaning and normalization  
 - Type transformation  
 - Creation of calculated attributes (salary slabs, categorical groupings)  
-- Structured one-to-many relationships  
+- Structured dimensional separation  
+
+Auto date/time was disabled to ensure controlled modeling behavior.
 
 The final structure follows a star-schema approach.
 
@@ -71,13 +75,13 @@ The model includes:
 
 - Attrition rate calculation  
 - KPI aggregation logic  
-- Salary slab classification  
+- Salary slab segmentation  
 - Category mapping using SWITCH(TRUE())  
 - Gender-based dynamic filtering  
 - Bookmark-driven toggle slicer implementation  
 - Conditional formatting and dynamic visual behavior  
 
-A custom toggle slicer was implemented using bookmarks and selection logic to dynamically switch gender views while altering visual styling.
+A custom toggle slicer was implemented using bookmark logic and selection layering to dynamically switch gender perspectives while modifying visual appearance and metric emphasis.
 
 ---
 
@@ -85,13 +89,13 @@ A custom toggle slicer was implemented using bookmarks and selection logic to dy
 
 ### DAX
 - CALCULATE and context transition  
-- SWITCH(TRUE()) classification logic  
+- SWITCH(TRUE()) classification framework  
 - Ratio calculations for attrition metrics  
 - Calculated columns and measures  
 
 ### Modeling
 - One-to-many relationships  
-- Structured dimensional separation  
+- Structured fact/dimension separation  
 - Controlled filter propagation  
 
 ### UX & Interaction
@@ -106,7 +110,7 @@ A custom toggle slicer was implemented using bookmarks and selection logic to dy
 
 - Identifies key drivers of employee attrition  
 - Highlights salary-related turnover patterns  
-- Supports HR retention strategy  
+- Supports retention-oriented HR strategy  
 - Provides structured workforce KPI monitoring  
 
 ---
