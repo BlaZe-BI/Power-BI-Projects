@@ -1,6 +1,8 @@
 # Data Analytics & Business Intelligence Portfolio  
 **Željko Blagojević**  
-SQL | Power BI | DAX | Data Modeling | Business Analytics  
+SQL | Power BI | DAX | Data Modeling | Business Analytics 
+
+**LinkedIn:** [Željko Blagojević](https://www.linkedin.com/in/željko-blagojević-1115261b4)
 
 ---
 
