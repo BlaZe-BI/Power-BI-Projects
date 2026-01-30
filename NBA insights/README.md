@@ -1,52 +1,102 @@
-# 📊 NBA Stats (Power BI by Zeljko Blagojevic)
+# NBA Multi-Fact Analytical Model
 
-## 🧠 Project Summary
-This project is about NBA statistics on teams and players.Give us insights about some aspects that are unusual 
-like comparation of players physics and athletics. Also, gives us some (really) fun-facts.
----
+Multi-table relational performance model built in Power BI combining team, player, draft and physical metrics.
 
-## 🔧 Key Features
-- Four page report
-- ETL and model relationship established
-- DAX measures
-- Set-up visuals, custom tooltips and page bookmarks, etc
+(65k+ games | Multi-fact structure | 11 related tables)
 
 ---
 
-## 📊 Dataset Overview
+## Report Overview
 
-- Data has been obtained from real world covering NBA stats from beggining up to recent years.
+<p align="center">
+  <img src="images/NBA stats by Zeljko Blagojevic 1.png" width="48%">
+  <img src="images/NBA stats by Zeljko Blagojevic 2.png" width="48%">
+</p>
 
-
-## 🖥️ Power BI Features Used
-- Power Query: Data cleaning and type transformation
-- DAX: Calculated columns and measures
-- Relationships: between 11 tables with active/inactive relationship, single and both-cross relationships,...
-- Visuals: Cards, Column chart, Table, etc
-- Navigation: Page buttons
-
----
-
-## 📂 Files Included
-| File Name             | Description                                 |
-|-----------------------|---------------------------------------------|
-| `NBA Stats by Zeljko Blagojevic.pbix`    | Power BI Desktop file (main dashboard)      |
+<p align="center">
+  <img src="images/NBA stats by Zeljko Blagojevic 3.png" width="48%">
+  <img src="images/NBA stats by Zeljko Blagojevic 4.png" width="48%">
+</p>
 
 ---
 
-## 📎 How to Use
-1. Download or clone the repository
-2. Open `NBA Stats by Zeljko Blagojevic` in Power BI Desktop
+## Background
+
+This project analyzes historical NBA data to explore performance patterns across teams and players, including draft position, physical attributes and statistical performance.
+
+The objective was to design a structured analytical model capable of handling multiple related fact tables while maintaining clean semantic modeling and controlled filter behavior.
+
+In addition to performance comparison, the model allows exploration of less conventional analytical angles such as correlations between player physical characteristics and performance metrics.
 
 ---
 
-## 🎓 What This Project Demonstrates
-- Data modeling and DAX proficiency
-- Visual storytelling 
-- Dashboard UX design with customized buttons, tooltips,...
+## Dataset
+
+- Historical NBA statistics dataset  
+- 65k+ recorded games  
+- Player-level and team-level performance metrics  
+- Draft and physical attribute information  
+- Multi-table relational structure (11 tables)
 
 ---
 
-## 📞 Contact
-Created by Zeljko Blagojevic  
-[LinkedIn](https://www.linkedin.com/in/željko-blagojević-1115261b4)
+## Data Preparation
+
+All data transformation was performed in **Power Query**, including:
+
+- Data cleaning and normalization  
+- Type transformation  
+- Harmonization of player and team identifiers  
+- Structured relationship definition across fact and dimension tables  
+
+The final structure follows a multi-fact modeling approach with shared dimensions.
+
+---
+
+## Analytical Approach
+
+The model includes:
+
+- Multi-fact structure (games, player stats, draft data)  
+- Shared dimension tables  
+- Controlled single and bi-directional relationships  
+- Active and inactive relationship handling  
+- Performance comparison logic  
+- Context-aware filtering across tables  
+
+Special attention was given to relationship direction management to prevent ambiguous filter propagation.
+
+---
+
+## Key Technical Components
+
+### DAX
+- CALCULATE and context transition  
+- Performance aggregation measures  
+- Comparative metric calculations  
+- Conditional logic for player evaluation  
+
+### Modeling
+- 11-table relational structure  
+- Multi-fact modeling with shared dimensions  
+- Active/inactive relationship management  
+- Controlled filter propagation  
+
+### UX & Interaction
+- Multi-page analytical report  
+- Context-driven comparison views  
+- Custom tooltips and bookmarks  
+- Interactive filtering across dimensions  
+
+---
+
+## Business Value
+
+- Demonstrates advanced modeling discipline  
+- Shows ability to manage complex relational structures  
+- Highlights understanding of filter propagation logic  
+- Enables structured comparative analytics  
+
+---
+
+Demonstrates multi-fact modeling capability, structured relationship management and advanced analytical design in Power BI.
