@@ -1,55 +1,102 @@
-# 📊 RFM Customer Segmentation (Power BI by Zeljko Blagojevic)
+# Social Media Campaign Analysis
 
-## 🧠 Project Summary
-This project give us insights on achivments of Social Media Ad Campaign (Conversion success analysis). We can discuss different KPI's, 
-ratios, distribution, Ad success, Category ranking etc
+Marketing performance dashboard built in Power BI focused on conversion efficiency and cost optimization.
 
----
-
-## 🔧 Key Features
-- KPI cards for Engagement, Conversion, and Cost
-- DAX measures/calculated columns
-- Custom tooltips and bookmarks
+(CTR | CVR | CPA | CPC | CPM | Conversion funnel analysis)
 
 ---
 
-## 📊 Dataset Overview
+## Report Overview
 
-- **Source**: The data set is retrieved from the Kaggle data set Sales Conversion Optimization 
-by GOKAGGLERS, where it describes the marketing and conversion information of an anonymous organisation's
-social media ad campaign.
-- **Data Format**: XLSX
-
-## 🖥️ Power BI Features Used
-- Power Query: Data cleaning and type transformation
-- DAX: Calculated columns and measures
-- Relationships: Single table dataset
-- Visuals: cards, bar chart, stacked bar chart, table, donut
-- Navigation: page buttons
+<p align="center">
+  <img src="images/Social Media Campaign by Zeljko Blagojevic_Page_1.png" width="48%">
+  <img src="images/Social Media Campaign by Zeljko Blagojevic_Page_2.png" width="48%">
+</p>
 
 ---
 
-## 📂 Files Included
-| File Name             | Description                                 |
-|-----------------------|---------------------------------------------|
-| `Social media campaign by Zeljko Blagojevic.pbix`    | Power BI Desktop file (main dashboard)      |
+## Background
+
+This project analyzes the performance of a social media advertising campaign with a focus on conversion success and cost efficiency.
+
+The objective was to translate marketing metrics into structured analytical KPIs and build a dashboard capable of evaluating campaign performance across demographic segments and engagement behavior.
+
+The dataset originates from a Kaggle marketing dataset describing an anonymous organization’s social media ad campaign.
 
 ---
 
-## 📎 How to Use
-1. Download or clone the repository
-2. Open `Social media campaign by Zeljko Blagojevic.pbix` in Power BI Desktop
-3. If needed, adjust data source path for `sales_data.csv`
+## Dataset
+
+- Source: Kaggle – Sales Conversion Optimization dataset  
+- Format: XLSX  
+- Campaign-level performance data  
+- Demographic attributes  
+- Engagement and conversion metrics  
 
 ---
 
-## 🎓 What This Project Demonstrates
-- Data modeling and DAX proficiency
-- Visual storytelling with KPIs and drill-through
-- Dashboard UX design using customized buttons, tooltips
+## Data Preparation
+
+All data transformation was performed in **Power Query**, including:
+
+- Data cleaning and normalization  
+- Type transformation  
+- Metric validation  
+- Creation of calculated columns for campaign categorization  
+
+Auto date/time was disabled to ensure controlled analytical modeling.
 
 ---
 
-## 📞 Contact
-Created by Zeljko Blagojevic
-[LinkedIn](https://www.linkedin.com/in/željko-blagojević-1115261b4)
+## Analytical Approach
+
+The model includes structured KPI logic for:
+
+- CTR (Click Through Rate)  
+- CVR (Conversion Rate)  
+- CPA (Cost Per Acquisition)  
+- CPC (Cost Per Click)  
+- CPM (Cost Per Mille)  
+
+Safe ratio calculations were implemented using DIVIDE to prevent calculation errors.
+
+The dashboard evaluates:
+
+- Engagement vs conversion efficiency  
+- Cost structure  
+- Category ranking  
+- Demographic performance breakdown  
+
+---
+
+## Key Technical Components
+
+### DAX
+- CALCULATE and filter context logic  
+- DIVIDE for safe ratio calculations  
+- Conditional KPI classification  
+- Aggregated cost and performance metrics  
+
+### Modeling
+- Single-table structured dataset  
+- Controlled metric derivation  
+- KPI layer separation  
+
+### UX & Interaction
+- KPI cards for high-level monitoring  
+- Dynamic filtering  
+- Custom tooltips  
+- Bookmark-driven navigation  
+
+---
+
+## Business Value
+
+- Enables performance comparison across demographic groups  
+- Highlights cost-efficiency drivers  
+- Identifies high-performing campaign segments  
+- Converts marketing metrics into actionable performance insight  
+
+---
+
+Demonstrates structured KPI modeling, marketing analytics interpretation and clean DAX implementation.
