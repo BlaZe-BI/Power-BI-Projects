@@ -1,55 +1,92 @@
-# 📊 IKEA B2B Sales (Power BI by Zeljko Blagojevic)
+# Retail / B2B Sales Analysis
 
-## 🧠 Project Summary
-This project is about answering four questions given by customer. Tasks on this project involve creating a data 
-visualization dashboard showcasing sales KPI's within two fiscal years with addition of sales map visual.
----
+B2B retail sales performance model built in Power BI.
 
-## 🔧 Key Features
-- Two page report: RFM Customer Segmentation and RFM Analysis
-- ETL and model relationship established
-- Creating dimDate table 
-- DAX measures
-- Dynamic filter by Region/Countryi/Place with drill-down
-- Set-up visuals, custom tooltips and page bookmarks, etc
+(220k+ transactions | Croatia | ~2 fiscal years of sales data)
 
 ---
 
-## 📊 Dataset Overview
+## Report Overview
 
-- Data has been obtained from real sales orders in Croatia in a period of around 2 fiscal years. Some features 
-have been altered in order to preserve privacy.
-
-
-## 🖥️ Power BI Features Used
-- Power Query: Data cleaning and type transformation
-- DAX: dimDate table, Calculated columns and measures
-- Relationships: One-to-many joins
-- Visuals: Cards, Column chart, Table, Funnel, Decomposition tree, etc
-- Navigation: Page buttons
+<p align="center">
+  <img src="images/IKEA B2B Sales by Zeljko Blagojevic 1.png" width="48%">
+  <img src="images/IKEA B2B Sales by Zeljko Blagojevic 2.png" width="48%">
+</p>
 
 ---
 
-## 📂 Files Included
-| File Name             | Description                                 |
-|-----------------------|---------------------------------------------|
-| `IKEA B2B Sales.pbix`    | Power BI Desktop file (main dashboard)      |
+## Background
+
+This project analyzes B2B sales performance across two fiscal years with a focus on KPI tracking, loyalty sales contribution, and geographic performance comparison.
+
+The report was designed to support management-level decision-making by answering structured business questions related to customer activity, revenue contribution, and fiscal performance differences.
 
 ---
 
-## 📎 How to Use
-1. Download or clone the repository
-2. Open `IKEA B2B Sales.pbix` in Power BI Desktop
+## Dataset
+
+- Real-world B2B sales dataset (anonymized)
+- Croatia market
+- Approximately 2 fiscal years of transaction history
+- Fact table: 220k+ transactions
+
+Selected attributes were modified to preserve confidentiality.
 
 ---
 
-## 🎓 What This Project Demonstrates
-- Data modeling and DAX proficiency
-- Visual storytelling 
-- Dashboard UX design with customized buttons, tooltips,...
+## Data Preparation
+
+All data transformation was performed in **Power Query**, including:
+
+- Data cleaning and normalization
+- Type transformation
+- Removal of inconsistencies
+- Creation of a custom `dimDate` table
+- Auto date/time disabled for controlled time intelligence modeling
+
+The final structure follows a star-schema approach.
 
 ---
 
-## 📞 Contact
-Created by Zeljko Blagojevic  
-[LinkedIn](https://www.linkedin.com/in/željko-blagojević-1115261b4)
+## Analytical Approach
+
+The model includes:
+
+- Custom fiscal year comparison logic (Sep–Feb focus)
+- Year-over-Year difference calculation (absolute and percentage)
+- Loyalty sales share calculation
+- Distinct customer KPI tracking
+- Geographic drill-down hierarchy (Region → Country → Place)
+
+---
+
+## Key Technical Components
+
+### DAX
+- CALCULATE and context transition
+- Time intelligence logic using custom fiscal calendar
+- DIVIDE-based safe ratio calculations
+- YoY variance computation
+
+### Modeling
+- One-to-many relationships
+- Structured star-schema design
+- Controlled filter propagation
+
+### UX & Interaction
+- Drill-down geographic hierarchy
+- KPI cards and variance indicators
+- Decomposition tree for contribution analysis
+
+---
+
+## Business Value
+
+- Enables fiscal performance comparison
+- Highlights loyalty program contribution
+- Identifies regional growth and decline patterns
+- Supports management-level KPI monitoring
+
+---
+
+Demonstrates structured KPI modeling, fiscal time intelligence implementation and business-oriented analytical reporting.
