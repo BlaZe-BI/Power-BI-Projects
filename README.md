@@ -212,7 +212,7 @@ Highlights advanced Power BI interaction logic.
 
 ---
 
-## E-Commerce Sales Dashboard [E-Commerce Sales Dashboard](./E-Commerce%20Sales)
+## [E-Commerce Sales Dashboard](./E-Commerce%20Sales)
 
 <p align="center">
   <img src="E-commerce Sales/images/E-commerce Sales by Zeljko Blagojevic_Page_1.png" width="48%" />
