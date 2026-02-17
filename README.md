@@ -60,6 +60,57 @@ My approach emphasizes:
 
 ---
 
+## TALCOM Enterprise Real Estate Performance Analysis
+
+<p align="center">
+  <img src="TALCOM Enterprise Real Estate Performance Analysis/images/Page_1.png" width="70%" />
+</p>
+
+<p align="center">
+  <img src="TALCOM Enterprise Real Estate Performance Analysis/images/Page_3.png" width="48%" />
+  <img src="TALCOM Enterprise Real Estate Performance Analysis/images/Page_6.png" width="48%" />
+</p>
+
+Enterprise-grade commercial real estate performance model structured around portfolio and asset-level management logic.
+
+- Portfolio income, NOI and OPEX structure analysis  
+- Lease profile, WAULT logic and tenant exposure  
+- Vacancy rate and rent per sqm benchmarking  
+- Lease expiry exposure matrix  
+- Tenant concentration & industry revenue split  
+- Operational SLA and maintenance performance  
+- ESG performance (EUI, CO₂ intensity, certification share)  
+
+Focus of this project is business-domain understanding and financial reasoning within enterprise real estate.  
+Technical ETL and modeling mechanics are intentionally demonstrated in other portfolio projects.
+
+---
+
+## Zuhlke FP&A
+
+<p align="center">
+  <img src="Zuhlke FP&A/images/Page_1.png" width="70%" />
+</p>
+
+<p align="center">
+  <img src="Zuhlke FP&A/images/Page_2.png" width="48%" />
+  <img src="Zuhlke FP&A/images/Page_4.png" width="48%" />
+</p>
+
+FP&A-oriented financial performance model structured around management reporting and variance analysis logic.
+
+- Revenue vs Budget and Forecast tracking  
+- Structured P&L variance analysis  
+- Cost center variance decomposition  
+- Margin analysis (Gross, Operating, Net)  
+- Rolling forecast & forecast accuracy modeling  
+- Working capital and cash flow logic  
+- Cash Conversion Cycle (DSO, DIO, DPO) analysis  
+
+Project emphasizes financial interpretation, KPI discipline and management reporting structure rather than technical ETL complexity.
+
+---
+
 ## RFM Customer Segmentation  
 (235k+ transactions | 25k+ customers)
 
