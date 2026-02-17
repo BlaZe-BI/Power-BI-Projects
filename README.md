@@ -60,7 +60,7 @@ My approach emphasizes:
 
 ---
 
-## TALCOM Enterprise Real Estate Performance Analysis
+## [TALCOM Enterprise Real Estate Performance Analysis](./TALCOM%20Enterprise%20Real%20Estate%20Performance%20Analysis)
 
 <p align="center">
   <img src="TALCOM Enterprise Real Estate Performance Analysis/images/Page_1.png" width="70%" />
@@ -86,7 +86,7 @@ Technical ETL and modeling mechanics are intentionally demonstrated in other por
 
 ---
 
-## Zuhlke FP&A
+## [Zuhlke FP&A](./Zuhlke%20FP%26A)
 
 <p align="center">
   <img src="Zuhlke FP&A/images/Page_1.png" width="70%" />
@@ -111,7 +111,7 @@ Project emphasizes financial interpretation, KPI discipline and management repor
 
 ---
 
-## RFM Customer Segmentation  
+## [RFM Customer Segmentation](./RFM%20Customer%20Segmentation)
 (235k+ transactions | 25k+ customers)
 
 <p align="center">
@@ -130,7 +130,7 @@ Demonstrates analytical modeling depth and customer intelligence thinking.
 
 ---
 
-## Retail / B2B Sales Analysis (Anonymized Real Dataset)  
+## [Retail / B2B Sales Analysis (Anonymized Real Dataset)](./IKEA%20B2B%20Sales)
 (220k+ transactions)
 
 <p align="center">
@@ -150,7 +150,7 @@ Demonstrates practical BI implementation using real-world structured data.
 
 ---
 
-## NBA Multi-Fact Analytical Model  
+## [NBA Multi-Fact Analytical Model](./NBA%20insights)
 (65k+ games)
 
 <p align="center">
@@ -168,7 +168,7 @@ Showcases modeling discipline and relationship management.
 
 ---
 
-## Social Media Campaign Analysis
+## [Social Media Campaign Analysis](./Social%20Media%20Ad%20Campaign%20Analysis)
 
 <p align="center">
   <img src="Social Media Ad Campaign Analysis/images/Social Media Campaign by Zeljko Blagojevic_Page_1.png" width="48%" />
@@ -189,7 +189,7 @@ Demonstrates translation of domain-specific KPIs into structured analytics.
 
 ---
 
-## HR Analytics Dashboard
+## [HR Analytics Dashboard](./HR%20Analytics)
 
 <p align="center">
   <img src="HR Analytics/images/HR Analytics by Zeljko Blagojevic 1.png" width="48%" />
@@ -212,7 +212,7 @@ Highlights advanced Power BI interaction logic.
 
 ---
 
-## E-Commerce Sales Dashboard
+## E-Commerce Sales Dashboard [E-Commerce Sales Dashboard](./E-Commerce%20Sales)
 
 <p align="center">
   <img src="E-commerce Sales/images/E-commerce Sales by Zeljko Blagojevic_Page_1.png" width="48%" />
