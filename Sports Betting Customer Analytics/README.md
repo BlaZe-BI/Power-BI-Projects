@@ -32,6 +32,21 @@ The final solution provides a business-friendly framework for customer value man
 
 ---
 
+## Report Availability
+
+This solution includes:
+
+* Power BI Desktop report
+* Optimized Mobile Layout
+* Interactive Power BI Service report
+
+**Live Report:**
+[View Interactive Report](https://app.powerbi.com/view?r=eyJrIjoiYjUyMjFlMGUtN2E2NC00MTJlLTg5YTctYjc1ZTgwYWUwNjRiIiwidCI6ImExYmRlNTMwLTJkMDAtNDQ4ZC04MTExLWJmZTg5NzVhMWI0YiIsImMiOjl9)
+
+The report was specifically designed to provide a consistent experience across desktop and mobile devices.
+
+---
+
 # 1️⃣ Navigation Page
 
 ![Navigation](./Images/Page_1.png)
