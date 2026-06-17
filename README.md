@@ -111,6 +111,28 @@ Project emphasizes financial interpretation, KPI discipline and management repor
 
 ---
 
+
+## [Sports Betting Customer Analytics](./Sports%20Betting%20Customer%20Analytics)
+
+<p align="center">
+  <img src="Sports Betting Customer Analytics/Images/Page_2.png" width="48%" />
+  <img src="Sports Betting Customer Analytics/Images/Page_3.png" width="48%" />
+</p>
+
+Customer analytics solution focused on player value segmentation, profitability analysis and behavioral insights.
+
+- Deposit and activity-based customer segmentation  
+- Customer profitability and margin analysis  
+- Executive KPI reporting framework  
+- Deposit vs withdrawal behavior analysis  
+- Segment contribution and value distribution  
+- Behavioral analytics and engagement patterns  
+- CRM and retention-oriented business insights  
+
+Demonstrates customer intelligence thinking and business-focused analytical storytelling.
+
+---
+
 ## [RFM Customer Segmentation](./RFM%20Customer%20Segmentation)
 (235k+ transactions | 25k+ customers)
 
@@ -127,6 +149,28 @@ Designed and implemented a full RFM customer segmentation model.
 - Implemented dynamic customer classification  
 
 Demonstrates analytical modeling depth and customer intelligence thinking.
+
+---
+
+## [Sports Betting CRM & Campaign Analytics](./Sports%20Betting%20CRM%20%26%20Campaign%20Analytics)
+
+<p align="center">
+  <img src="Sports Betting CRM & Campaign Analytics/Images/Page_2.png" width="48%" />
+  <img src="Sports Betting CRM & Campaign Analytics/Images/Page_7.png" width="48%" />
+</p>
+
+CRM and campaign analytics solution developed around player acquisition, conversion and promotional effectiveness.
+
+- NRC, FTD and Conversion Rate KPI framework  
+- Acquisition funnel and deposit conversion analysis  
+- Player activity and profitability monitoring  
+- Deposit-based customer segmentation  
+- 7-day moving average trend analysis  
+- Dynamic KPI exploration using Field Parameters  
+- Promotional campaign effectiveness evaluation  
+
+Demonstrates CRM analytics, campaign measurement and business-oriented insight generation.
+
 
 ---
 

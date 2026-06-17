@@ -1,4 +1,4 @@
-# Sports Betting Customer Segmentation & Profitability Analytics
+# Sports Betting Customer Analytics
 
 ## Project Overview
 
