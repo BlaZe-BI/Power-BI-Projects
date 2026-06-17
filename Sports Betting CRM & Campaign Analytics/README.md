@@ -42,7 +42,7 @@ The reporting structure follows seven business tasks:
 
 # 1️⃣ Navigation Page
 
-![Navigation](./images/Page_1.png)
+![Navigation](./Images/Page_1.png)
 
 ### Purpose
 
@@ -59,7 +59,7 @@ Provide a central landing page allowing navigation to all analytical sections of
 
 # 2️⃣ Acquisition & Financial Overview
 
-![Acquisition & Financial Overview](./images/Page_2.png)
+![Acquisition & Financial Overview](./Images/Page_2.png)
 
 ### Purpose
 
@@ -84,7 +84,7 @@ Monitor player acquisition, conversion, deposits, betting activity and GGR perfo
 
 # 3️⃣ Player Activity & Performance
 
-![Player Activity & Performance](./images/Page_3.png)
+![Player Activity & Performance](./Images/Page_3.png)
 
 ### Purpose
 
@@ -108,7 +108,7 @@ This page helps identify:
 
 # 4️⃣ Deposit Segmentation Analysis
 
-![Deposit Segmentation](./images/Page_4.png)
+![Deposit Segmentation](./Images/Page_4.png)
 
 ### Purpose
 
@@ -131,7 +131,7 @@ The analysis highlights concentration of value among high-deposit customers and 
 
 # 5️⃣ Daily Bet vs 7-Day Moving Average
 
-![Moving Average Analysis](./images/Page_5.png)
+![Moving Average Analysis](./Images/Page_5.png)
 
 ### Purpose
 
@@ -150,7 +150,7 @@ This visualization reduces daily noise and reveals underlying player activity tr
 
 # 6️⃣ Dynamic KPI Explorer
 
-![Dynamic KPI Explorer](./images/Page_6.png)
+![Dynamic KPI Explorer](./Images/Page_6.png)
 
 ### Purpose
 
@@ -184,7 +184,7 @@ Built using Power BI Field Parameters for dynamic measure and axis switching.
 
 # 7️⃣ TV Draw Promotion Analysis
 
-![Promotion Analysis](./images/Page_7.png)
+![Promotion Analysis](./Images/Page_7.png)
 
 ### Purpose
 
@@ -209,7 +209,7 @@ Evaluate the effectiveness of the TV Draw promotional campaign.
 
 # 8️⃣ Task Description Page
 
-![Task Description Page](./images/Page_8.png)
+![Task Description Page](./Images/Page_8.png)
 
 ### Purpose
 
@@ -219,7 +219,7 @@ Reference page containing the original assignment requirements and evaluation cr
 
 # 9️⃣ Campaign Insights & Recommendations
 
-![Campaign Insights](./images/Page_9.png)
+![Campaign Insights](./Images/Page_9.png)
 
 ### Key Conclusions
 

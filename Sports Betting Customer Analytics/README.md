@@ -32,9 +32,31 @@ The final solution provides a business-friendly framework for customer value man
 
 ---
 
-# 1️⃣ Executive Overview
+# 1️⃣ Navigation Page
 
-![Executive Overview](./images/Page_2.png)
+![Navigation](./Images/Page_1.png)
+
+### Purpose
+
+Provide a central landing page allowing navigation to all analytical sections of the report.
+
+### Features
+
+- Executive Overview navigation
+- Segmentation Analysis navigation
+- Client Behavior & Advanced Analytics navigation
+- Assignment Requirements page
+- Consistent report branding and user experience
+
+### Business Value
+
+The navigation page serves as the report entry point, allowing users to quickly access all analytical areas while maintaining a structured storytelling flow throughout the report.
+
+---
+
+# 2️⃣ Executive Overview
+
+![Executive Overview](./Images/Page_2.png)
 
 ### Purpose
 
@@ -64,9 +86,9 @@ The analysis highlights which customer segments generate the highest contributio
 
 ---
 
-# 2️⃣ Segmentation Analysis
+# 3️⃣ Segmentation Analysis
 
-![Segmentation Analysis](./images/Page_3.png)
+![Segmentation Analysis](./Images/Page_3.png)
 
 ### Purpose
 
@@ -111,9 +133,9 @@ The analysis reveals concentration patterns, identifies dominant customer groups
 
 ---
 
-# 3️⃣ Client Behavior & Advanced Analytics
+# 4️⃣ Client Behavior & Advanced Analytics
 
-![Client Behavior & Advanced Analytics](./images/Page_4.png)
+![Client Behavior & Advanced Analytics](./Images/Page_4.png)
 
 ### Purpose
 
@@ -143,9 +165,9 @@ High-value segments emerge as a combination of strong deposit behavior and susta
 
 ---
 
-# 4️⃣ Assignment Requirements
+# 5️⃣ Assignment Requirements
 
-![Assignment Requirements](./images/Page_5.png)
+![Assignment Requirements](./Images/Page_5.png)
 
 ### Purpose
 
